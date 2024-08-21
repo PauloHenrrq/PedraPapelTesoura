@@ -1,2 +1,2 @@
 # PedraPapelTesoura
-Projeto da geração TechJS - Pedra papel tesoura
+Pedra papel tesoura
